@@ -1,0 +1,308 @@
+.nav-link{
+    color: rgb(255, 255, 255);
+}
+
+.navbar-nav .nav-link.active {
+    color: rgb(255, 255, 255);
+}
+.navbar-nav.nav-link{
+    color: rgb(255, 255, 255);
+}
+.navbar-brand img {
+    width: 200px;
+}
+.navbar-toggler{
+    background-color: aliceblue;
+}
+.card-text {
+    
+}
+.center-both {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: chocolate;
+}
+.boldtext {
+  font-weight: 1000;column-fill: balance;
+}
+.boldtext-1 {
+  color: crimson;
+}
+element.style {
+}
+@media only screen and (min-width: 0px) and (max-width: 600px) {
+    .wrapper {
+        width: auto !important;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+}
+@media only screen and (min-width: 0px) and (max-width: 1000px) {
+    .wrapper {
+        width: auto;
+        padding-left: 10px !important;
+        padding-right: 10px !important;
+    }
+}
+@media only screen and (min-width: 0px) and (max-width: 600px) {
+    .wrapper {
+        width: auto !important;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+}
+@media only screen and (min-width: 0px) and (max-width: 1000px) {
+    .wrapper {
+        width: auto;
+        padding-left: 10px !important;
+        padding-right: 10px !important;
+    }
+}
+.wrapper {
+    margin: 0 auto;
+    width: 950px;
+    padding: 0 25px;
+    position: relative;
+}
+.wrapper {
+    margin: 0 auto;
+    width: 950px;
+    padding: 0 25px;
+    position: relative;
+}
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, var, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary, time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, var, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary, time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+* {
+    -webkit-appearance: none;
+}
+* {
+    -webkit-appearance: none;
+}
+таблица стилей агента пользователя
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font: 18px 'Roboto', sans-serif;
+    font-weight: 500;
+    color: #1d2029;
+    background: #fff;
+}
+body {
+    line-height: 1;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font: 18px 'Roboto', sans-serif;
+    font-weight: 500;
+    color: #1d2029;
+    background: #fff;
+}
+body {
+    line-height: 1;
+}
+html {
+    height: 100%;
+    font-size: 100.01%;
+    overflow-y: scroll;
+}
+html {
+    height: 100%;
+    font-size: 100.01%;
+    overflow-y: scroll;
+}
+border-element.style {
+}
+.btn:not(:disabled):not(.disabled) {
+    cursor: pointer;
+}
+.btn-primary, .btn-primary:active {
+    background-color: #ffe161 !important;
+    border-color: #ffe161 !important;
+    color: #614f00 !important;
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2);
+}
+.btn {
+    padding: 0.6rem 1.2rem;
+    border-radius: 4px;
+}
+@media (max-width: 768px) {
+    .display-4 {
+        font-size: 0.88rem;
+        font-size: calc( 1.0350000000000001rem + (1.1 - 1.0350000000000001) * ((100vw - 20rem) / (48 - 20)));
+        line-height: calc( 1.4 * (1.0350000000000001rem + (1.1 - 1.0350000000000001) * ((100vw - 20rem) / (48 - 20))));
+    }
+}
+.display-4 {
+    font-family: 'Jost', sans-serif;
+    font-size: 1.1rem;
+    line-height: 1.5;
+}
+.btn {
+    font-weight: 500;
+    border-width: 1px;
+    font-style: normal;
+    margin: 0.6rem 0.6rem;
+    white-space: normal;
+    transition: all 0.2s ease-in-out;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    word-break: break-word;
+}
+h1, h2, h3, h4, h5, h6, .display-1, .display-2, .display-4, .display-5, .display-7, span, p, a {
+    line-height: 1;
+    word-break: break-word;
+    word-wrap: break-word;
+    font-weight: 400;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+}
+.btn {
+    display: inline-block;
+    font-weight: 400;
+    color: #212529;
+    text-align: center;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-color: transparent;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+}
+.display-4 {
+    font-size: 3.5rem;
+    font-weight: 300;
+    line-height: 1.2;
+}
+a {
+    transition: color 0.4s;
+}
+a, a:hover {
+    color: #000000;
+}
+a, a:hover {
+    text-decoration: none;
+}
+a {
+    font-style: normal;
+    font-weight: 400;
+    cursor: pointer;
+}
+element.style {
+}
+@media only screen and (min-width: 0px) and (max-width: 600px) {
+    #reviews_block {
+        padding: 25px 10px;
+    }
+}
+@media only screen and (min-width: 0px) and (max-width: 600px) {
+    #reviews_block {
+        padding: 25px 10px;
+    }
+}
+#reviews_block {
+    border-bottom: 1px solid #e6e6e6;
+    padding: 33px 0 39px 0;
+}
+#reviews_block {
+    border-bottom: 1px solid #e6e6e6;
+    padding: 33px 0 39px 0;
+}
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, var, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary, time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, var, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary, time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+* {
+    -webkit-appearance: none;
+}
+* {
+    -webkit-appearance: none;
+}
+таблица стилей агента пользователя
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font: 18px 'Roboto', sans-serif;
+    font-weight: 500;
+    color: #1d2029;
+    background: #fff;
+}
+body {
+    line-height: 1;
+}
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font: 18px 'Roboto', sans-serif;
+    font-weight: 500;
+    color: #1d2029;
+    background: #fff;
+}
+
+body {
+    line-height: 1;
+}
+html {
+    height: 100%;
+    font-size: 100.01%;
+    overflow-y: scroll;
+}
+html {
+    height: 100%;
+    font-size: 100.01%;
+    overflow-y: scroll;
+}
